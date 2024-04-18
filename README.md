@@ -37,7 +37,7 @@ Step 4 = D \
 Step 5 = E \
 Following notation given in publication.
 
-Requirements: \
+**Requirements:** \
 numpy \
 pickle \
 matplotlib
@@ -46,4 +46,4 @@ Sample command:
 ```
 python statistical_heatmaps.py
 ```
-Two visualisations should be generated: 1) 2) identical to those shown on the figure above.
+Two visualisations should be generated: 1) 1-D detection-based heatmap 2) 2-D line plot with standard deviations as error bars every 5th position identical to those shown on the figure above.
