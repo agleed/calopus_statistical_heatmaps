@@ -6,6 +6,7 @@ Repository for statistical characterisation of fetal anatomy in simple obstetric
 
 Two pickle files encode probabilities (probabilities.pkl) and standard deviations (stds.pkl) with the following tree structure:
 
+```
 +---A
 |   +---breech
 |   |   +---abdomen
@@ -27,6 +28,7 @@ Two pickle files encode probabilities (probabilities.pkl) and standard deviation
 |       \---spine
 +---B
 | etc ...
+```
 
 Step 1 = A
 Step 2 = B
