@@ -40,7 +40,7 @@ Following notation given in publication.
 Requirements: \
 numpy \
 pickle \
-matplotlib \
+matplotlib
 
 Sample command:
 ```
