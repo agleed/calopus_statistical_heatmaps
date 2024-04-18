@@ -37,10 +37,10 @@ Step 4 = D \
 Step 5 = E \
 Following notation given in publication.
 
-Requirements:
-numpy
-pickle
-matplotlib
+Requirements: \
+numpy \
+pickle \
+matplotlib \
 
 Sample command:
 ```
