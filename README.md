@@ -30,19 +30,19 @@ Two pickle files encode probabilities (probabilities.pkl) and standard deviation
 │   etc ...
 ```
 
-Step 1 = A
-Step 2 = B
-Step 3 = C
-Step 4 = D
-Step 5 = E
-Following notation given in publication.
+Step 1 = A \
+Step 2 = B \
+Step 3 = C \
+Step 4 = D \
+Step 5 = E \
+Following notation given in publication.\
 
-Requirements:
-numpy
-pickle
-matplotlib
+Requirements: \ 
+numpy \
+pickle \
+matplotlib \
 
-Sample command:
-python statistical_heatmaps.py
+Sample command: \
+python statistical_heatmaps.py \
 
 Two visualisations should be generated: 1) 2) identical to those shown on the figure above.
