@@ -7,27 +7,27 @@ Repository for statistical characterisation of fetal anatomy in simple obstetric
 Two pickle files encode probabilities (probabilities.pkl) and standard deviations (stds.pkl) with the following tree structure:
 
 ```
-+---A
-|   +---breech
-|   |   +---abdomen
-|   |   +---femur
-|   |   +---head
-|   |   +---pelvis
-|   |   \---spine
-|   +---cephalic
-|   |   +---abdomen
-|   |   +---femur
-|   |   +---head
-|   |   +---pelvis
-|   |   \---spine
-|   \---other
-|       +---abdomen
-|       +---femur
-|       +---head
-|       +---pelvis
-|       \---spine
-+---B
-| etc ...
+├───A
+│   ├───breech
+│   │   ├───abdomen
+│   │   ├───femur
+│   │   ├───head
+│   │   ├───pelvis
+│   │   └───spine
+│   ├───cephalic
+│   │   ├───abdomen
+│   │   ├───femur
+│   │   ├───head
+│   │   ├───pelvis
+│   │   └───spine
+│   └───other
+│       ├───abdomen
+│       ├───femur
+│       ├───head
+│       ├───pelvis
+│       └───spine
+├───B
+│   etc ...
 ```
 
 Step 1 = A
@@ -45,6 +45,4 @@ matplotlib
 Sample command:
 python statistical_heatmaps.py
 
-Two visualisations should be generated: 1) 2)
-![What is this](step_1_head_heatmap_only.svg)
-![What is this](step_1_head_lineplot_only.svg)
+Two visualisations should be generated: 1) 2) identical to those shown on the figure above.
