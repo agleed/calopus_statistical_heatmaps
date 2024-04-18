@@ -46,4 +46,4 @@ Sample command:
 ```
 python statistical_heatmaps.py
 ```
-Two visualisations should be generated: 1) 1-D detection-based heatmap 2) 2-D line plot with standard deviations as error bars every 5th position identical to those shown on the figure above.
+Two visualisations should be generated: 1) 1-D detection-based heatmap 2) 2-D line plot with standard deviations visualised as error bars every 5th position. Plots should be identical to those shown on the figure above.
