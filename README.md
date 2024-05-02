@@ -1,6 +1,6 @@
 # Statistical characterisation of fetal anatomy in simple obstetric ultrasound video sweeps
 
-Repository for statistical characterisation of fetal anatomy in simple obstetric ultrasound video sweeps (). Parameters describing statistical heatmaps using video sweeps of the CALOPUS protocol (https://doi.org/10.2196/37374) are provided and made freely available. Parameters exist for fetal presentations: breech, cephalic, transverse and fetal anatomies: head, spine, abdomen, pelvis, femur using 760 unique frame-level manual annotations from 365 unique pregnancies. See first publication provided for more details.
+Repository for statistical characterisation of fetal anatomy in simple obstetric ultrasound video sweeps (https://doi.org/10.1016/j.ultrasmedbio.2024.03.006). Parameters describing statistical heatmaps using video sweeps of the CALOPUS protocol (https://doi.org/10.2196/373) are provided and made freely available. Parameters exist for fetal presentations: breech, cephalic, transverse and fetal anatomies: head, spine, abdomen, pelvis, femur using 760 unique frame-level manual annotations from 365 unique pregnancies. See first publication provided for more details.
 
 ![Summary figure](summary.png)
 
